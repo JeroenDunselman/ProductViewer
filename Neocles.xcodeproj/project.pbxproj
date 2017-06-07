@@ -7,6 +7,9 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		01024F911F8E45C2BDA222A2 /* libPods-NeoclesUITests.a in Frameworks */ = {isa = PBXBuildFile; fileRef = 796336775EB7654918A46549 /* libPods-NeoclesUITests.a */; };
+		21B2841AE6C6F77950BA1011 /* libPods-Neocles.a in Frameworks */ = {isa = PBXBuildFile; fileRef = 6322689CCADB1974E7063687 /* libPods-Neocles.a */; };
+		84460B960BDA1514D1AF3551 /* libPods-NeoclesTests.a in Frameworks */ = {isa = PBXBuildFile; fileRef = CB493AAFD695860419D6B96F /* libPods-NeoclesTests.a */; };
 		A962D4D51EE83B17005E6131 /* main.m in Sources */ = {isa = PBXBuildFile; fileRef = A962D4D41EE83B17005E6131 /* main.m */; };
 		A962D4D81EE83B17005E6131 /* AppDelegate.m in Sources */ = {isa = PBXBuildFile; fileRef = A962D4D71EE83B17005E6131 /* AppDelegate.m */; };
 		A962D4DB1EE83B17005E6131 /* ViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = A962D4DA1EE83B17005E6131 /* ViewController.m */; };
@@ -15,6 +18,16 @@
 		A962D4E31EE83B17005E6131 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = A962D4E11EE83B17005E6131 /* LaunchScreen.storyboard */; };
 		A962D4EE1EE83B17005E6131 /* NeoclesTests.m in Sources */ = {isa = PBXBuildFile; fileRef = A962D4ED1EE83B17005E6131 /* NeoclesTests.m */; };
 		A962D4F91EE83B17005E6131 /* NeoclesUITests.m in Sources */ = {isa = PBXBuildFile; fileRef = A962D4F81EE83B17005E6131 /* NeoclesUITests.m */; };
+		A962D50F1EE83B63005E6131 /* ADD to Whishlist SCAN ICON black@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = A962D5081EE83B63005E6131 /* ADD to Whishlist SCAN ICON black@2x.png */; };
+		A962D5101EE83B63005E6131 /* ADD to Whishlist SCAN ICON black@3x.png in Resources */ = {isa = PBXBuildFile; fileRef = A962D5091EE83B63005E6131 /* ADD to Whishlist SCAN ICON black@3x.png */; };
+		A962D5111EE83B63005E6131 /* login-background@2x.jpg in Resources */ = {isa = PBXBuildFile; fileRef = A962D50A1EE83B63005E6131 /* login-background@2x.jpg */; };
+		A962D5121EE83B63005E6131 /* login-logo@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = A962D50B1EE83B63005E6131 /* login-logo@2x.png */; };
+		A962D5131EE83B63005E6131 /* login-logo@3x.png in Resources */ = {isa = PBXBuildFile; fileRef = A962D50C1EE83B63005E6131 /* login-logo@3x.png */; };
+		A962D5141EE83B63005E6131 /* REMOVE from Whishlist SCAN ICON@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = A962D50D1EE83B63005E6131 /* REMOVE from Whishlist SCAN ICON@2x.png */; };
+		A962D5151EE83B63005E6131 /* REMOVE from Whishlist SCAN ICON@3x.png in Resources */ = {isa = PBXBuildFile; fileRef = A962D50E1EE83B63005E6131 /* REMOVE from Whishlist SCAN ICON@3x.png */; };
+		A962D5191EE85B83005E6131 /* ProductTVCell.m in Sources */ = {isa = PBXBuildFile; fileRef = A962D5171EE85B83005E6131 /* ProductTVCell.m */; };
+		A962D51A1EE85B83005E6131 /* ProductTVCell.xib in Resources */ = {isa = PBXBuildFile; fileRef = A962D5181EE85B83005E6131 /* ProductTVCell.xib */; };
+		A962D51D1EE86127005E6131 /* ProductTableViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = A962D51C1EE86127005E6131 /* ProductTableViewController.m */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -35,6 +48,10 @@
 /* End PBXContainerItemProxy section */
 
 /* Begin PBXFileReference section */
+		1EC90E9821B2612648D98BD0 /* Pods-NeoclesUITests.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-NeoclesUITests.debug.xcconfig"; path = "Pods/Target Support Files/Pods-NeoclesUITests/Pods-NeoclesUITests.debug.xcconfig"; sourceTree = "<group>"; };
+		20C20DD9B01141C524AF7EDB /* Pods-Neocles.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-Neocles.debug.xcconfig"; path = "Pods/Target Support Files/Pods-Neocles/Pods-Neocles.debug.xcconfig"; sourceTree = "<group>"; };
+		6322689CCADB1974E7063687 /* libPods-Neocles.a */ = {isa = PBXFileReference; explicitFileType = archive.ar; includeInIndex = 0; path = "libPods-Neocles.a"; sourceTree = BUILT_PRODUCTS_DIR; };
+		796336775EB7654918A46549 /* libPods-NeoclesUITests.a */ = {isa = PBXFileReference; explicitFileType = archive.ar; includeInIndex = 0; path = "libPods-NeoclesUITests.a"; sourceTree = BUILT_PRODUCTS_DIR; };
 		A962D4D01EE83B17005E6131 /* Neocles.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = Neocles.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		A962D4D41EE83B17005E6131 /* main.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = main.m; sourceTree = "<group>"; };
 		A962D4D61EE83B17005E6131 /* AppDelegate.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = AppDelegate.h; sourceTree = "<group>"; };
@@ -51,6 +68,23 @@
 		A962D4F41EE83B17005E6131 /* NeoclesUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = NeoclesUITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		A962D4F81EE83B17005E6131 /* NeoclesUITests.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = NeoclesUITests.m; sourceTree = "<group>"; };
 		A962D4FA1EE83B17005E6131 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		A962D5081EE83B63005E6131 /* ADD to Whishlist SCAN ICON black@2x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "ADD to Whishlist SCAN ICON black@2x.png"; sourceTree = "<group>"; };
+		A962D5091EE83B63005E6131 /* ADD to Whishlist SCAN ICON black@3x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "ADD to Whishlist SCAN ICON black@3x.png"; sourceTree = "<group>"; };
+		A962D50A1EE83B63005E6131 /* login-background@2x.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = "login-background@2x.jpg"; sourceTree = "<group>"; };
+		A962D50B1EE83B63005E6131 /* login-logo@2x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "login-logo@2x.png"; sourceTree = "<group>"; };
+		A962D50C1EE83B63005E6131 /* login-logo@3x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "login-logo@3x.png"; sourceTree = "<group>"; };
+		A962D50D1EE83B63005E6131 /* REMOVE from Whishlist SCAN ICON@2x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "REMOVE from Whishlist SCAN ICON@2x.png"; sourceTree = "<group>"; };
+		A962D50E1EE83B63005E6131 /* REMOVE from Whishlist SCAN ICON@3x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "REMOVE from Whishlist SCAN ICON@3x.png"; sourceTree = "<group>"; };
+		A962D5161EE85B83005E6131 /* ProductTVCell.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = ProductTVCell.h; sourceTree = "<group>"; };
+		A962D5171EE85B83005E6131 /* ProductTVCell.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = ProductTVCell.m; sourceTree = "<group>"; };
+		A962D5181EE85B83005E6131 /* ProductTVCell.xib */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = file.xib; path = ProductTVCell.xib; sourceTree = "<group>"; };
+		A962D51B1EE86127005E6131 /* ProductTableViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = ProductTableViewController.h; sourceTree = "<group>"; };
+		A962D51C1EE86127005E6131 /* ProductTableViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = ProductTableViewController.m; sourceTree = "<group>"; };
+		BC021CEC18FCF4EF5429E4F9 /* Pods-NeoclesTests.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-NeoclesTests.release.xcconfig"; path = "Pods/Target Support Files/Pods-NeoclesTests/Pods-NeoclesTests.release.xcconfig"; sourceTree = "<group>"; };
+		CB493AAFD695860419D6B96F /* libPods-NeoclesTests.a */ = {isa = PBXFileReference; explicitFileType = archive.ar; includeInIndex = 0; path = "libPods-NeoclesTests.a"; sourceTree = BUILT_PRODUCTS_DIR; };
+		CDC31CDA14EABE4289DB6B5F /* Pods-Neocles.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-Neocles.release.xcconfig"; path = "Pods/Target Support Files/Pods-Neocles/Pods-Neocles.release.xcconfig"; sourceTree = "<group>"; };
+		E2478FA0A6EA0E034541DD22 /* Pods-NeoclesUITests.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-NeoclesUITests.release.xcconfig"; path = "Pods/Target Support Files/Pods-NeoclesUITests/Pods-NeoclesUITests.release.xcconfig"; sourceTree = "<group>"; };
+		FEBB654E8836974096376000 /* Pods-NeoclesTests.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-NeoclesTests.debug.xcconfig"; path = "Pods/Target Support Files/Pods-NeoclesTests/Pods-NeoclesTests.debug.xcconfig"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -58,6 +92,7 @@
 			isa = PBXFrameworksBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				21B2841AE6C6F77950BA1011 /* libPods-Neocles.a in Frameworks */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -65,6 +100,7 @@
 			isa = PBXFrameworksBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				84460B960BDA1514D1AF3551 /* libPods-NeoclesTests.a in Frameworks */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -72,12 +108,36 @@
 			isa = PBXFrameworksBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				01024F911F8E45C2BDA222A2 /* libPods-NeoclesUITests.a in Frameworks */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
 /* End PBXFrameworksBuildPhase section */
 
 /* Begin PBXGroup section */
+		5D03BA363AD19D5C7A45A9EB /* Frameworks */ = {
+			isa = PBXGroup;
+			children = (
+				6322689CCADB1974E7063687 /* libPods-Neocles.a */,
+				CB493AAFD695860419D6B96F /* libPods-NeoclesTests.a */,
+				796336775EB7654918A46549 /* libPods-NeoclesUITests.a */,
+			);
+			name = Frameworks;
+			sourceTree = "<group>";
+		};
+		9755C747D41A64F0730FE95D /* Pods */ = {
+			isa = PBXGroup;
+			children = (
+				20C20DD9B01141C524AF7EDB /* Pods-Neocles.debug.xcconfig */,
+				CDC31CDA14EABE4289DB6B5F /* Pods-Neocles.release.xcconfig */,
+				FEBB654E8836974096376000 /* Pods-NeoclesTests.debug.xcconfig */,
+				BC021CEC18FCF4EF5429E4F9 /* Pods-NeoclesTests.release.xcconfig */,
+				1EC90E9821B2612648D98BD0 /* Pods-NeoclesUITests.debug.xcconfig */,
+				E2478FA0A6EA0E034541DD22 /* Pods-NeoclesUITests.release.xcconfig */,
+			);
+			name = Pods;
+			sourceTree = "<group>";
+		};
 		A962D4C71EE83B17005E6131 = {
 			isa = PBXGroup;
 			children = (
@@ -85,6 +145,8 @@
 				A962D4EC1EE83B17005E6131 /* NeoclesTests */,
 				A962D4F71EE83B17005E6131 /* NeoclesUITests */,
 				A962D4D11EE83B17005E6131 /* Products */,
+				9755C747D41A64F0730FE95D /* Pods */,
+				5D03BA363AD19D5C7A45A9EB /* Frameworks */,
 			);
 			sourceTree = "<group>";
 		};
@@ -106,9 +168,15 @@
 				A962D4D91EE83B17005E6131 /* ViewController.h */,
 				A962D4DA1EE83B17005E6131 /* ViewController.m */,
 				A962D4DC1EE83B17005E6131 /* Main.storyboard */,
+				A962D51B1EE86127005E6131 /* ProductTableViewController.h */,
+				A962D51C1EE86127005E6131 /* ProductTableViewController.m */,
 				A962D4DF1EE83B17005E6131 /* Assets.xcassets */,
+				A962D5071EE83B63005E6131 /* Assets */,
 				A962D4E11EE83B17005E6131 /* LaunchScreen.storyboard */,
 				A962D4E41EE83B17005E6131 /* Info.plist */,
+				A962D5161EE85B83005E6131 /* ProductTVCell.h */,
+				A962D5171EE85B83005E6131 /* ProductTVCell.m */,
+				A962D5181EE85B83005E6131 /* ProductTVCell.xib */,
 				A962D4D31EE83B17005E6131 /* Supporting Files */,
 			);
 			path = Neocles;
@@ -140,6 +208,21 @@
 			path = NeoclesUITests;
 			sourceTree = "<group>";
 		};
+		A962D5071EE83B63005E6131 /* Assets */ = {
+			isa = PBXGroup;
+			children = (
+				A962D5081EE83B63005E6131 /* ADD to Whishlist SCAN ICON black@2x.png */,
+				A962D5091EE83B63005E6131 /* ADD to Whishlist SCAN ICON black@3x.png */,
+				A962D50A1EE83B63005E6131 /* login-background@2x.jpg */,
+				A962D50B1EE83B63005E6131 /* login-logo@2x.png */,
+				A962D50C1EE83B63005E6131 /* login-logo@3x.png */,
+				A962D50D1EE83B63005E6131 /* REMOVE from Whishlist SCAN ICON@2x.png */,
+				A962D50E1EE83B63005E6131 /* REMOVE from Whishlist SCAN ICON@3x.png */,
+			);
+			name = Assets;
+			path = Assets.xcassets/Assets;
+			sourceTree = "<group>";
+		};
 /* End PBXGroup section */
 
 /* Begin PBXNativeTarget section */
@@ -147,9 +230,12 @@
 			isa = PBXNativeTarget;
 			buildConfigurationList = A962D4FD1EE83B17005E6131 /* Build configuration list for PBXNativeTarget "Neocles" */;
 			buildPhases = (
+				34F7C4DCD1410C3291C59C49 /* [CP] Check Pods Manifest.lock */,
 				A962D4CC1EE83B17005E6131 /* Sources */,
 				A962D4CD1EE83B17005E6131 /* Frameworks */,
 				A962D4CE1EE83B17005E6131 /* Resources */,
+				D8B0AF7151D66CD5DBE9EA67 /* [CP] Embed Pods Frameworks */,
+				B252BB9A7418CBA166E4CEA3 /* [CP] Copy Pods Resources */,
 			);
 			buildRules = (
 			);
@@ -164,9 +250,12 @@
 			isa = PBXNativeTarget;
 			buildConfigurationList = A962D5001EE83B17005E6131 /* Build configuration list for PBXNativeTarget "NeoclesTests" */;
 			buildPhases = (
+				A20842D86EE2A470AE1A4841 /* [CP] Check Pods Manifest.lock */,
 				A962D4E51EE83B17005E6131 /* Sources */,
 				A962D4E61EE83B17005E6131 /* Frameworks */,
 				A962D4E71EE83B17005E6131 /* Resources */,
+				04EA55B47CF9BBD7CD7E92DC /* [CP] Embed Pods Frameworks */,
+				A53591629738C4B223E2EBD0 /* [CP] Copy Pods Resources */,
 			);
 			buildRules = (
 			);
@@ -182,9 +271,12 @@
 			isa = PBXNativeTarget;
 			buildConfigurationList = A962D5031EE83B17005E6131 /* Build configuration list for PBXNativeTarget "NeoclesUITests" */;
 			buildPhases = (
+				AC801B12000F8E83A0903BB0 /* [CP] Check Pods Manifest.lock */,
 				A962D4F01EE83B17005E6131 /* Sources */,
 				A962D4F11EE83B17005E6131 /* Frameworks */,
 				A962D4F21EE83B17005E6131 /* Resources */,
+				A6772AEE70BE1C98B66DC7F5 /* [CP] Embed Pods Frameworks */,
+				5B3E997AE79DEB6C8B7B62F9 /* [CP] Copy Pods Resources */,
 			);
 			buildRules = (
 			);
@@ -249,9 +341,17 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				A962D5101EE83B63005E6131 /* ADD to Whishlist SCAN ICON black@3x.png in Resources */,
 				A962D4E31EE83B17005E6131 /* LaunchScreen.storyboard in Resources */,
+				A962D5111EE83B63005E6131 /* login-background@2x.jpg in Resources */,
 				A962D4E01EE83B17005E6131 /* Assets.xcassets in Resources */,
+				A962D5141EE83B63005E6131 /* REMOVE from Whishlist SCAN ICON@2x.png in Resources */,
+				A962D50F1EE83B63005E6131 /* ADD to Whishlist SCAN ICON black@2x.png in Resources */,
+				A962D5121EE83B63005E6131 /* login-logo@2x.png in Resources */,
+				A962D5131EE83B63005E6131 /* login-logo@3x.png in Resources */,
 				A962D4DE1EE83B17005E6131 /* Main.storyboard in Resources */,
+				A962D51A1EE85B83005E6131 /* ProductTVCell.xib in Resources */,
+				A962D5151EE83B63005E6131 /* REMOVE from Whishlist SCAN ICON@3x.png in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -271,12 +371,152 @@
 		};
 /* End PBXResourcesBuildPhase section */
 
+/* Begin PBXShellScriptBuildPhase section */
+		04EA55B47CF9BBD7CD7E92DC /* [CP] Embed Pods Frameworks */ = {
+			isa = PBXShellScriptBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			inputPaths = (
+			);
+			name = "[CP] Embed Pods Frameworks";
+			outputPaths = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+			shellPath = /bin/sh;
+			shellScript = "\"${SRCROOT}/Pods/Target Support Files/Pods-NeoclesTests/Pods-NeoclesTests-frameworks.sh\"\n";
+			showEnvVarsInLog = 0;
+		};
+		34F7C4DCD1410C3291C59C49 /* [CP] Check Pods Manifest.lock */ = {
+			isa = PBXShellScriptBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			inputPaths = (
+			);
+			name = "[CP] Check Pods Manifest.lock";
+			outputPaths = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+			shellPath = /bin/sh;
+			shellScript = "diff \"${PODS_ROOT}/../Podfile.lock\" \"${PODS_ROOT}/Manifest.lock\" > /dev/null\nif [ $? != 0 ] ; then\n    # print error to STDERR\n    echo \"error: The sandbox is not in sync with the Podfile.lock. Run 'pod install' or update your CocoaPods installation.\" >&2\n    exit 1\nfi\n";
+			showEnvVarsInLog = 0;
+		};
+		5B3E997AE79DEB6C8B7B62F9 /* [CP] Copy Pods Resources */ = {
+			isa = PBXShellScriptBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			inputPaths = (
+			);
+			name = "[CP] Copy Pods Resources";
+			outputPaths = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+			shellPath = /bin/sh;
+			shellScript = "\"${SRCROOT}/Pods/Target Support Files/Pods-NeoclesUITests/Pods-NeoclesUITests-resources.sh\"\n";
+			showEnvVarsInLog = 0;
+		};
+		A20842D86EE2A470AE1A4841 /* [CP] Check Pods Manifest.lock */ = {
+			isa = PBXShellScriptBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			inputPaths = (
+			);
+			name = "[CP] Check Pods Manifest.lock";
+			outputPaths = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+			shellPath = /bin/sh;
+			shellScript = "diff \"${PODS_ROOT}/../Podfile.lock\" \"${PODS_ROOT}/Manifest.lock\" > /dev/null\nif [ $? != 0 ] ; then\n    # print error to STDERR\n    echo \"error: The sandbox is not in sync with the Podfile.lock. Run 'pod install' or update your CocoaPods installation.\" >&2\n    exit 1\nfi\n";
+			showEnvVarsInLog = 0;
+		};
+		A53591629738C4B223E2EBD0 /* [CP] Copy Pods Resources */ = {
+			isa = PBXShellScriptBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			inputPaths = (
+			);
+			name = "[CP] Copy Pods Resources";
+			outputPaths = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+			shellPath = /bin/sh;
+			shellScript = "\"${SRCROOT}/Pods/Target Support Files/Pods-NeoclesTests/Pods-NeoclesTests-resources.sh\"\n";
+			showEnvVarsInLog = 0;
+		};
+		A6772AEE70BE1C98B66DC7F5 /* [CP] Embed Pods Frameworks */ = {
+			isa = PBXShellScriptBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			inputPaths = (
+			);
+			name = "[CP] Embed Pods Frameworks";
+			outputPaths = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+			shellPath = /bin/sh;
+			shellScript = "\"${SRCROOT}/Pods/Target Support Files/Pods-NeoclesUITests/Pods-NeoclesUITests-frameworks.sh\"\n";
+			showEnvVarsInLog = 0;
+		};
+		AC801B12000F8E83A0903BB0 /* [CP] Check Pods Manifest.lock */ = {
+			isa = PBXShellScriptBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			inputPaths = (
+			);
+			name = "[CP] Check Pods Manifest.lock";
+			outputPaths = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+			shellPath = /bin/sh;
+			shellScript = "diff \"${PODS_ROOT}/../Podfile.lock\" \"${PODS_ROOT}/Manifest.lock\" > /dev/null\nif [ $? != 0 ] ; then\n    # print error to STDERR\n    echo \"error: The sandbox is not in sync with the Podfile.lock. Run 'pod install' or update your CocoaPods installation.\" >&2\n    exit 1\nfi\n";
+			showEnvVarsInLog = 0;
+		};
+		B252BB9A7418CBA166E4CEA3 /* [CP] Copy Pods Resources */ = {
+			isa = PBXShellScriptBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			inputPaths = (
+			);
+			name = "[CP] Copy Pods Resources";
+			outputPaths = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+			shellPath = /bin/sh;
+			shellScript = "\"${SRCROOT}/Pods/Target Support Files/Pods-Neocles/Pods-Neocles-resources.sh\"\n";
+			showEnvVarsInLog = 0;
+		};
+		D8B0AF7151D66CD5DBE9EA67 /* [CP] Embed Pods Frameworks */ = {
+			isa = PBXShellScriptBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			inputPaths = (
+			);
+			name = "[CP] Embed Pods Frameworks";
+			outputPaths = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+			shellPath = /bin/sh;
+			shellScript = "\"${SRCROOT}/Pods/Target Support Files/Pods-Neocles/Pods-Neocles-frameworks.sh\"\n";
+			showEnvVarsInLog = 0;
+		};
+/* End PBXShellScriptBuildPhase section */
+
 /* Begin PBXSourcesBuildPhase section */
 		A962D4CC1EE83B17005E6131 /* Sources */ = {
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				A962D51D1EE86127005E6131 /* ProductTableViewController.m in Sources */,
 				A962D4DB1EE83B17005E6131 /* ViewController.m in Sources */,
+				A962D5191EE85B83005E6131 /* ProductTVCell.m in Sources */,
 				A962D4D81EE83B17005E6131 /* AppDelegate.m in Sources */,
 				A962D4D51EE83B17005E6131 /* main.m in Sources */,
 			);
@@ -425,6 +665,7 @@
 		};
 		A962D4FE1EE83B17005E6131 /* Debug */ = {
 			isa = XCBuildConfiguration;
+			baseConfigurationReference = 20C20DD9B01141C524AF7EDB /* Pods-Neocles.debug.xcconfig */;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				DEVELOPMENT_TEAM = 447M47227T;
@@ -437,6 +678,7 @@
 		};
 		A962D4FF1EE83B17005E6131 /* Release */ = {
 			isa = XCBuildConfiguration;
+			baseConfigurationReference = CDC31CDA14EABE4289DB6B5F /* Pods-Neocles.release.xcconfig */;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				DEVELOPMENT_TEAM = 447M47227T;
@@ -449,6 +691,7 @@
 		};
 		A962D5011EE83B17005E6131 /* Debug */ = {
 			isa = XCBuildConfiguration;
+			baseConfigurationReference = FEBB654E8836974096376000 /* Pods-NeoclesTests.debug.xcconfig */;
 			buildSettings = {
 				BUNDLE_LOADER = "$(TEST_HOST)";
 				DEVELOPMENT_TEAM = 447M47227T;
@@ -462,6 +705,7 @@
 		};
 		A962D5021EE83B17005E6131 /* Release */ = {
 			isa = XCBuildConfiguration;
+			baseConfigurationReference = BC021CEC18FCF4EF5429E4F9 /* Pods-NeoclesTests.release.xcconfig */;
 			buildSettings = {
 				BUNDLE_LOADER = "$(TEST_HOST)";
 				DEVELOPMENT_TEAM = 447M47227T;
@@ -475,6 +719,7 @@
 		};
 		A962D5041EE83B17005E6131 /* Debug */ = {
 			isa = XCBuildConfiguration;
+			baseConfigurationReference = 1EC90E9821B2612648D98BD0 /* Pods-NeoclesUITests.debug.xcconfig */;
 			buildSettings = {
 				DEVELOPMENT_TEAM = 447M47227T;
 				INFOPLIST_FILE = NeoclesUITests/Info.plist;
@@ -487,6 +732,7 @@
 		};
 		A962D5051EE83B17005E6131 /* Release */ = {
 			isa = XCBuildConfiguration;
+			baseConfigurationReference = E2478FA0A6EA0E034541DD22 /* Pods-NeoclesUITests.release.xcconfig */;
 			buildSettings = {
 				DEVELOPMENT_TEAM = 447M47227T;
 				INFOPLIST_FILE = NeoclesUITests/Info.plist;
@@ -516,6 +762,7 @@
 				A962D4FF1EE83B17005E6131 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 		A962D5001EE83B17005E6131 /* Build configuration list for PBXNativeTarget "NeoclesTests" */ = {
 			isa = XCConfigurationList;
@@ -524,6 +771,7 @@
 				A962D5021EE83B17005E6131 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 		A962D5031EE83B17005E6131 /* Build configuration list for PBXNativeTarget "NeoclesUITests" */ = {
 			isa = XCConfigurationList;
@@ -532,6 +780,7 @@
 				A962D5051EE83B17005E6131 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};
